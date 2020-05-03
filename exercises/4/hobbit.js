@@ -51,4 +51,4 @@ get hasRing(){
     }
 }
 }
-module.exports = Hobbit
+module.exports = Hobbit;
